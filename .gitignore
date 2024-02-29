@@ -1,0 +1,8 @@
+## all my backup pdfs
+##you can use Regular expression
+*.pdf
+
+## all my images for my paper
+## you can list one-by-one your files
+Screenshot.png
+
