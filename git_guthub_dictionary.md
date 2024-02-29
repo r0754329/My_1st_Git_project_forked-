@@ -15,10 +15,10 @@ IMPORTANT: Don't remove the `.git` folder where your history is kept
 2. Staging area: Temporary space to store file beffore commiting to the local repo.
 
 3. Local repo: It is where the snapshots are saved
+   
+   - To access the history in the local repo so I can get informatino about who, when and what was modified I can use `log`. That will be useful when I want to travel in time.
 
-4. ...
-
-Git status allow me to check what files are
+## Git status allow me to check what files are
 
 1. to be staged: You have commited tjhis file/folder before, you have made new changes and git recognise the new changes are not yet `add` not `commit`.
 
@@ -26,6 +26,4 @@ Git status allow me to check what files are
 
 3. Untracked: Is a completely new file/folder that **HAS NEVER** been `add` nor `commit`
 
-
-
-## I`M GOING TO COMMIT WITHOUT A MSG NOW, JUST BECAUSE THE TEACHER IS TELLING ME!
+# 
