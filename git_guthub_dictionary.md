@@ -26,4 +26,8 @@ IMPORTANT: Don't remove the `.git` folder where your history is kept
 
 3. Untracked: Is a completely new file/folder that **HAS NEVER** been `add` nor `commit`
 
-# 
+# Important docuemnts that should be part of my repo
+
+1.  **README.txt or README.md :** Where I should describe my project, my code, main goals, and usage, etc .... Can also be a good idea to add links and directins for data that should be related for example...
+
+2. **.gitignore :** A text file, with no extension that should be ALWAYS in non-caps and where I'll list all the files to be ignored and not tracked by git nor shared on github. For exmaple: DAta file, Intermediate files, etc....
