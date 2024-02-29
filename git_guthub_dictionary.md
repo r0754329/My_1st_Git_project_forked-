@@ -1,7 +1,5 @@
 # Git & GitHub Dictionary
 
-
-
 - Git: a versioning system that keeps track of changes - allows you to go back, allows for collaboration, is locally stored.
 
 - GitHub: Where we can acces other's files, online repository for your codes (not only) (Back up place for you rgit projects). "cloud based" located ... remote ...
@@ -9,8 +7,6 @@
 IMPORTANT: Don't do doble `git init`
 
 IMPORTANT: Don't remove the `.git` folder where your history is kept
-
-
 
 # Conceptual Areas
 
@@ -22,20 +18,10 @@ IMPORTANT: Don't remove the `.git` folder where your history is kept
 
 4. ...
 
-# Commands
+Git status allow me to check what files are
 
-`git init` -> Is going to initialize my timeline (my git repo)
+1. unstaged:
 
-`git add` ->
+2. Untracked
 
-`git commit` -m "meaninful msg" -> saves the update version (snapshot / point in time) in the git repo
-
-    Things to consider when writing a msg o make meaninful
-
-    - Why
-
-    - How
-
-    - Effects
-
-    - Limitations
+3. 
