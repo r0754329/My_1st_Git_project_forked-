@@ -1,7 +1,5 @@
 # Commands
 
-
-
 Commands
 
 `git init` -> Is going to initialize my timeline (my git repo)
@@ -19,3 +17,5 @@ Commands
     - Effects
 
     - Limitations
+
+`git status` -> Chek in what conceptual area my file/folder is 

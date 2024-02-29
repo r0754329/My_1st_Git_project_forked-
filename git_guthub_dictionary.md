@@ -20,8 +20,10 @@ IMPORTANT: Don't remove the `.git` folder where your history is kept
 
 Git status allow me to check what files are
 
-1. unstaged:
+1. to be staged: You have commited tjhis file/folder before, you have made new changes and git recognise the new changes are not yet `add` not `commit`.
 
-2. Untracked
+2. to be commited: You have commited file before, you have made new changes and git recognises you have `add` **but not** `commit`
 
-3. 
+3. Untracked: Is a completely new file/folder that **HAS NEVER** been `add` nor `commit`
+
+4. 
