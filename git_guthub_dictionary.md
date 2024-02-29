@@ -26,4 +26,6 @@ Git status allow me to check what files are
 
 3. Untracked: Is a completely new file/folder that **HAS NEVER** been `add` nor `commit`
 
-4. 
+
+
+## I`M GOING TO COMMIT WITHOUT A MSG NOW, JUST BECAUSE THE TEACHER IS TELLING ME!
