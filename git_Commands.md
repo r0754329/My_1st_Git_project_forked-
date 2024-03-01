@@ -34,14 +34,6 @@
 
 `git diff id_1 id_2` -> show the differences, in a line-by-line comparison between two versions/two snapshots/two points in the timeline
 
-
-
-
-
 git clone: To clone from Github including the files, .git and bridge
 
 git revert: To revert back the commit
-
-
-
-
