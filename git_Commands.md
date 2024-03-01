@@ -42,6 +42,6 @@ git clone: To clone from Github including the files, .git and bridge
 
 git revert: To revert back the commit
 
-Adding an intentional conflict - doc 1
+create a new line that didnt exist before!!!!
 
 
