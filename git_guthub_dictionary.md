@@ -17,6 +17,7 @@ IMPORTANT: Don't remove the `.git` folder where your history is kept
 3. Local repo: It is where the snapshots are saved
    
    - To access the history in the local repo so I can get informatino about who, when and what was modified I can use `log`. That will be useful when I want to travel in time.
+4- Remote repository: Backspace, example github.
 
 ## Git status allow me to check what files are
 
