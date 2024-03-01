@@ -32,3 +32,13 @@ IMPORTANT: Don't remove the `.git` folder where your history is kept
 1.  **README.txt or README.md :** Where I should describe my project, my code, main goals, and usage, etc .... Can also be a good idea to add links and directins for data that should be related for example...
 
 2. **.gitignore :** A text file, with no extension that should be ALWAYS in non-caps and where I'll list all the files to be ignored and not tracked by git nor shared on github. For exmaple: DAta file, Intermediate files, etc....
+
+
+# Parallel timelines - how to experiment risk free in Git
+
+1. creat a new timeline - branch and give it a name
+`git branch <name>`
+2. checkout to the timeline you want to work on...
+`git checkout <name/id>`
+
+p.s.: You can travel branchs and commits
